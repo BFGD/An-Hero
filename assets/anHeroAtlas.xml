@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:b9886e28a3a931ee39ced86784fc3d3a:899862babe55d11f6946b33240eae1ca:784301d3067f5562aa85ef0039c938ae$ -->
+<TextureAtlas imagePath="anHeroAtlas.png" width="1624" height="1969">
+    <SubTexture name="An_Hero_logo" x="1" y="1" width="1622" height="538"/>
+    <SubTexture name="Female_Head_Button" x="446" y="1309" width="250" height="231"/>
+    <SubTexture name="Female_Head_Button_Down" x="698" y="1514" width="227" height="210" frameX="-12" frameY="-11" frameWidth="250" frameHeight="231"/>
+    <SubTexture name="Health_001" x="446" y="1944" width="250" height="24"/>
+    <SubTexture name="Health_002" x="698" y="1938" width="250" height="24"/>
+    <SubTexture name="Health_003" x="950" y="1366" width="250" height="24"/>
+    <SubTexture name="Health_004" x="950" y="1392" width="250" height="24"/>
+    <SubTexture name="Health_005" x="1202" y="1390" width="250" height="24"/>
+    <SubTexture name="Health_006" x="1202" y="1416" width="250" height="24"/>
+    <SubTexture name="Health_007" x="1167" y="1442" width="250" height="24"/>
+    <SubTexture name="Health_008" x="1167" y="1468" width="250" height="24"/>
+    <SubTexture name="Health_009" x="1167" y="1494" width="250" height="24"/>
+    <SubTexture name="Health_010" x="1167" y="1520" width="250" height="24"/>
+    <SubTexture name="Health_011" x="1167" y="1546" width="250" height="24"/>
+    <SubTexture name="Knight_Female_Right_Attack_Jab_001" x="1283" y="1572" width="122" height="134" frameX="-11" frameY="-11" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="Knight_Female_Right_Attack_Jab_002" x="927" y="1733" width="128" height="134" frameX="-17" frameY="-11" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="Knight_Female_Right_Attack_Swipe_001" x="1057" y="1733" width="122" height="134" frameX="-11" frameY="-11" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="Knight_Female_Right_Attack_Swipe_002" x="927" y="1733" width="128" height="134" frameX="-17" frameY="-11" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="Knight_Female_Right_Attack_Swipe_003" x="1159" y="1572" width="122" height="139" frameX="-11" frameY="-11" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="Knight_Female_Right_Idle_001" x="1299" y="1708" width="116" height="134" frameX="-11" frameY="-11" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="Knight_Female_Right_Idle_002" x="1181" y="1713" width="116" height="140" frameX="-11" frameY="-5" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="Knight_Female_Right_Walk_001" x="1299" y="1708" width="116" height="134" frameX="-11" frameY="-11" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="Knight_Female_Right_Walk_002" x="1454" y="733" width="116" height="134" frameX="-11" frameY="-11" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="Knight_Female_Right_Walk_003" x="1454" y="869" width="116" height="128" frameX="-11" frameY="-17" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="Knight_Male_Right_Attack_Jab_001" x="1454" y="1123" width="128" height="116" frameX="-5" frameY="-29" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="Knight_Male_Right_Attack_Jab_002" x="1442" y="1241" width="140" height="116" frameX="-5" frameY="-29" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="Knight_Male_Right_Attack_Swipe_001" x="1454" y="1359" width="128" height="116" frameX="-5" frameY="-29" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="Knight_Male_Right_Attack_Swipe_002" x="1442" y="1241" width="140" height="116" frameX="-5" frameY="-29" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="Knight_Male_Right_Attack_Swipe_003" x="1419" y="1477" width="128" height="121" frameX="-5" frameY="-29" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="Knight_Male_Right_Idle_001" x="1417" y="1700" width="122" height="116" frameX="-5" frameY="-29" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="Knight_Male_Right_Idle_002" x="1454" y="999" width="122" height="122" frameX="-5" frameY="-23" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="Knight_Male_Right_Walk_001" x="1417" y="1700" width="122" height="116" frameX="-5" frameY="-29" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="Knight_Male_Right_Walk_002" x="1417" y="1818" width="122" height="116" frameX="-5" frameY="-29" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="Knight_Male_Right_Walk_003" x="1181" y="1855" width="122" height="110" frameX="-5" frameY="-35" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="Male_Head_Button" x="446" y="1542" width="250" height="231"/>
+    <SubTexture name="Male_Head_Button_Down" x="698" y="1726" width="227" height="210" frameX="-12" frameY="-11" frameWidth="250" frameHeight="231"/>
+    <SubTexture name="SlimeBoss_Move_Left_001" x="1202" y="1228" width="238" height="160" frameX="-6" frameY="-76" frameWidth="250" frameHeight="250"/>
+    <SubTexture name="SlimeBoss_Move_Left_002" x="927" y="1572" width="230" height="159" frameX="-6" frameY="-77" frameWidth="250" frameHeight="250"/>
+    <SubTexture name="SlimeSplooge_001" x="1513" y="541" width="78" height="98" frameX="-11" frameY="-2" frameWidth="100" frameHeight="100"/>
+    <SubTexture name="SlimeSplooge_002" x="1407" y="1600" width="78" height="98" frameX="-11" frameY="-2" frameWidth="100" frameHeight="100"/>
+    <SubTexture name="Slime_Attack_001" x="950" y="1228" width="250" height="136" frameX="0" frameY="-100" frameWidth="250" frameHeight="250"/>
+    <SubTexture name="Slime_Attack_002" x="927" y="1418" width="238" height="152" frameX="-6" frameY="-84" frameWidth="250" frameHeight="250"/>
+    <SubTexture name="Slime_Attack_003" x="698" y="1282" width="221" height="230" frameX="-14" frameY="-6" frameWidth="250" frameHeight="250"/>
+    <SubTexture name="Slime_Idle_001" x="1202" y="1228" width="238" height="160" frameX="-6" frameY="-76" frameWidth="250" frameHeight="250"/>
+    <SubTexture name="Slime_Idle_002" x="446" y="1775" width="250" height="167" frameX="0" frameY="-69" frameWidth="250" frameHeight="250"/>
+    <SubTexture name="SoundButton_Down" x="927" y="1869" width="64" height="63" frameX="-7" frameY="-2" frameWidth="82" frameHeight="66"/>
+    <SubTexture name="SoundButton_Up" x="1513" y="641" width="68" height="66" frameX="-6" frameY="0" frameWidth="82" frameHeight="66"/>
+    <SubTexture name="btnConfirm_Down" x="1009" y="733" width="443" height="163" frameX="-34" frameY="-19" frameWidth="512" frameHeight="195"/>
+    <SubTexture name="btnConfirm_Up" x="1" y="541" width="502" height="190" frameX="-5" frameY="-5" frameWidth="512" frameHeight="195"/>
+    <SubTexture name="btnCredits_Down" x="1" y="1309" width="443" height="163" frameX="-34" frameY="-19" frameWidth="512" frameHeight="195"/>
+    <SubTexture name="btnCredits_Up" x="1" y="733" width="502" height="190" frameX="-5" frameY="-5" frameWidth="512" frameHeight="195"/>
+    <SubTexture name="btnExit_Down" x="505" y="1117" width="443" height="163" frameX="-34" frameY="-19" frameWidth="512" frameHeight="195"/>
+    <SubTexture name="btnExit_Up" x="505" y="541" width="502" height="190" frameX="-5" frameY="-5" frameWidth="512" frameHeight="195"/>
+    <SubTexture name="btnForfeit_Down" x="1009" y="898" width="443" height="163" frameX="-34" frameY="-19" frameWidth="512" frameHeight="195"/>
+    <SubTexture name="btnForfeit_Up" x="1" y="925" width="502" height="190" frameX="-5" frameY="-5" frameWidth="512" frameHeight="195"/>
+    <SubTexture name="btnInstructions_Down" x="1" y="1474" width="443" height="163" frameX="-34" frameY="-19" frameWidth="512" frameHeight="195"/>
+    <SubTexture name="btnInstructions_Up" x="505" y="733" width="502" height="190" frameX="-5" frameY="-5" frameWidth="512" frameHeight="195"/>
+    <SubTexture name="btnMenu_Down" x="1" y="1639" width="443" height="163" frameX="-34" frameY="-19" frameWidth="512" frameHeight="195"/>
+    <SubTexture name="btnMenu_Up" x="1009" y="541" width="502" height="190" frameX="-5" frameY="-5" frameWidth="512" frameHeight="195"/>
+    <SubTexture name="btnPlay_Down" x="1" y="1804" width="443" height="163" frameX="-34" frameY="-19" frameWidth="512" frameHeight="195"/>
+    <SubTexture name="btnPlay_Up" x="1" y="1117" width="502" height="190" frameX="-5" frameY="-5" frameWidth="512" frameHeight="195"/>
+    <SubTexture name="btnQuit_Down" x="1009" y="1063" width="443" height="163" frameX="-34" frameY="-19" frameWidth="512" frameHeight="195"/>
+    <SubTexture name="btnQuit_Up" x="505" y="925" width="502" height="190" frameX="-5" frameY="-5" frameWidth="512" frameHeight="195"/>
+</TextureAtlas>
